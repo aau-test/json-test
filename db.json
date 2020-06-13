@@ -25,5 +25,13 @@
      "version": "1.1.0-alpha",
      "user": "aau-test"
    }
- ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "vs": "v5.4.67-a",
+      "learn more": "https://jsonplaceholder.typicode.com/posts/1",
+      "postId": 1
+    }
+  ]
 }
