@@ -1,0 +1,27 @@
+{
+  "posts": [
+   {
+      "version": 4,
+      "download": "https://jsonplaceholder.typicode.com/posts/1"
+   },
+   {
+      "id": 2,
+      "user": "aau-test",
+      "vers": 10.441,
+      "dl": "https://jsonplaceholder.typicode.com/posts/2"
+   },
+   {
+      "v": "v2.0.1",
+      "d": "https://jsonplaceholder.typicode.com/posts/3",
+      "lm": "https://jsonplaceholder.typicode.com/posts/3/comments"
+   },
+   {
+   
+   },
+   {
+     "version": "1.1.0-alpha",
+     "id": 5,
+     "user": "aau-test"
+   }
+ ]
+}
